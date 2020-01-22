@@ -70,3 +70,19 @@
   align-items: center;
   border-radius: 5px;
 }
+
+.friend__content .content__column {
+  display: flex;
+  align-items: center;
+}
+
+.content__column i,
+.content__column .friend__number {
+  opacity: 0.6;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.chats__chat {
+  margin-bottom: 35px;
+}
